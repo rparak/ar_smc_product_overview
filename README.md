@@ -8,3 +8,11 @@ The youtube video (see link below) shows some examples from the project:
 - product overview (2 products out of 8) -> positioning of the object, scaling, information about the object, webpage, animation, etc.
 
 The project was realized at Institute of Automation and Computer Science, Brno University of Technology, Faculty of Mechanical Engineering (NETME Centre - Cybernetics and Robotics Division).
+
+Link SMC Demovan (Czech language only): https://www.smcengineering.cz/demovan/
+
+## Contact Info:
+Roman.Parak@outlook.com
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
