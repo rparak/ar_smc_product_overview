@@ -28,6 +28,10 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 
 Link SMC Demovan (Czech language only): https://www.smcengineering.cz/demovan/
 
+<p align="center">
+<img src="https://github.com/rparak/ar_smc_product_overview/blob/master/images/title.png" width="700" height="350">
+</p>
+
 ## Result:
 Youtube: 
 
