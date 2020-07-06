@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="PART9_SMCP" size="1.000000 1.001398" />
+    <ImageTarget name="PART8_SMCP" size="1.000000 0.999302" />
+    <ImageTarget name="PART7_SMCP" size="1.000000 1.001399" />
+    <ImageTarget name="PART6_SMCP" size="1.000000 1.000727" />
+    <ImageTarget name="PART5_SMCP" size="1.000000 1.000000" />
+    <ImageTarget name="PART4_SMCP" size="1.000000 1.000699" />
+    <ImageTarget name="PART3_SMCP" size="1.000000 0.999302" />
+    <ImageTarget name="PART2_SMCP" size="1.000000 1.000000" />
+    <ImageTarget name="PART1_SMCP" size="1.000000 0.999301" />
+  </Tracking>
+</QCARConfig>
