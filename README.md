@@ -42,7 +42,7 @@ Link SMC Demovan (Czech language only): https://www.smcengineering.cz/demovan/
 [ Animation Products          ] /Anim_OBJ/ ..
 ```
 <p align="center">
-<img src="https://github.com/rparak/ar_smc_product_overview/blob/master/images/hierarchy.PNG" width="1080" height="600">
+<img src="https://github.com/rparak/ar_smc_product_overview/blob/master/images/hierarchy.PNG" width="900" height="400">
 </p>
 
 ## Result:
