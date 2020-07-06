@@ -12,7 +12,9 @@ Universal Windows Platform, Android
 ```
 
 Link Unity: https://unity3d.com/get-unity/download/archive
+
 Link Vuforia Engine: https://developer.vuforia.com/downloads/sdk
+
 Link Visual Studio: https://visualstudio.microsoft.com/vs/
 
 ## Project Description:
