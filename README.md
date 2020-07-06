@@ -32,6 +32,10 @@ Link SMC Demovan (Czech language only): https://www.smcengineering.cz/demovan/
 <img src="https://github.com/rparak/ar_smc_product_overview/blob/master/images/title.png" width="1000" height="500">
 </p>
 
+<p align="center">
+<img src="https://github.com/rparak/ar_smc_product_overview/blob/master/images/part_9.png" width="750" height="400">
+</p>
+
 ## Project Hierarchy:
 **Repositary [ar_smc_product_overview/AR_Project/ar_smc/Assets/Scripts/]:**
 ```bash
@@ -43,10 +47,6 @@ Link SMC Demovan (Czech language only): https://www.smcengineering.cz/demovan/
 ```
 <p align="center">
 <img src="https://github.com/rparak/ar_smc_product_overview/blob/master/images/hierarchy.PNG" width="750" height="400">
-</p>
-
-<p align="center">
-<img src="https://github.com/rparak/ar_smc_product_overview/blob/master/images/part_9.png" width="750" height="400">
 </p>
 
 ## Products Overview:
