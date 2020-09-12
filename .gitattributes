@@ -1,3 +1,3 @@
-*.ShaderLab linguist-detectable=false
+*.shader linguist-detectable=false
 *.cs linguist-detectable=true
 *.cs linguist-language=C#
