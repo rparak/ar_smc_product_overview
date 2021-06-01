@@ -4,18 +4,19 @@
 
 **Software:**
 ```bash
-Unity 2019.1.1f1, Vuforia 8.3.8, Visual Studio 2019
+Unity 2019.1.1f1, Blender, Vuforia 8.3.8, Visual Studio 2019
 ```
 **Supported on the following operating systems:**
 ```bash
 Universal Windows Platform, Android
 ```
 
-Link Unity: https://unity3d.com/get-unity/download/archive
-
-Link Vuforia Engine: https://developer.vuforia.com/downloads/sdk
-
-Link Visual Studio: https://visualstudio.microsoft.com/vs/
+| Software/Package      | Link                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------- |
+| Blender               | https://www.blender.org/download/                                                     |
+| Unity3D               | https://unity3d.com/get-unity/download/archive                                        |
+| Vuforia Engine        | https://developer.vuforia.com/downloads/sdk                                           |
+| Visual Studio         | https://visualstudio.microsoft.com/downloads/                                         |
 
 ## Project Description:
 The augmented reality application was created at the request of SMC Industrial Automation and will be used for an overview of some products for customers. The application was created in Unity3D using the Vuforia Engine and tested on Android and Windows. QR codes have been selected to detect target images (specified products).
